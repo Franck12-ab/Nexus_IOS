@@ -82,11 +82,7 @@ Nexus is an iOS social media application built using **Swift** and **SwiftUI**, 
 
 ---
 
-## 👨‍💻 Credits
-This project was developed by **Binaya Thapa Magar**:
-- [**Binaya Thapa Magar**](https://github.com/binayathapamagar)
 
----
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
